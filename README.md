@@ -4,7 +4,7 @@
 
 🌱 I am currently building my portfolio through extensive machine learning projects that help make effective business decisions and provide valuable insights. 
 
-#### Tools and Technologies: 
+#### Skills: 
 
 - Business / Data Analyst Skills: Python, R, SQL | Tableau, Power BI | MS Office | Google Analytics 
 
