@@ -8,7 +8,7 @@
 
 - Business / Data Analyst Skills: Python, R, SQL | Tableau, Power BI | MS Office | Google Analytics 
 
-- Machine Learning using Python: Libraries - Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly | Algorithms - Regression, Classification, Naives Bayes, K-NN, Decision Trees, Clustering
+- Machine Learning using Python: Algorithms - Regression, Classification, Naives Bayes, K-NN, Decision Trees, Clustering | Libraries - Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly
 
 - Professional Skills: Data Visualization | Machine Learning | A/B Testing | Statistical Analysis & Forecasting | Project Management | ETL | Relational Databases (MySQL) | Web Analytics | Risk Analytics
 
