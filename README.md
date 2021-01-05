@@ -19,6 +19,3 @@
 <a target="_blank" href="https://public.tableau.com/profile/shimonyagrawal#!/"><img src="https://img.shields.io/badge/-Tableau-1DA1F2?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
 <br>
 </p>      
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimonyagrawal&show_icons=true)
