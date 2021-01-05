@@ -20,4 +20,4 @@
 <br>
 </p>      
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimonyagrawal&layout=compact)](https://github.com/shimonyagrawal/github-readme-stats)
