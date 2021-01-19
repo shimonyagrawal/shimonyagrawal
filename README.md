@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m an analyst passionate about building ML models that can extract value from data, discover patterns and trends, make predictions and deliver accurate results. I have experience in conducting exploratory data analysis, data mining, market basket analysis as well as model deployment and lifecycle management. 
+🔭 I’m an analyst passionate about building models that can extract value from data, discover patterns and trends, make predictions and deliver accurate results. I have experience in conducting exploratory data analysis, data mining, market basket analysis as well as model deployment and lifecycle management. 
 
 🌱 I am currently building my portfolio through extensive machine learning projects that help make effective business decisions and provide valuable insights. 
 
