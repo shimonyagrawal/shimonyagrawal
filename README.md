@@ -10,7 +10,7 @@
 
 - Machine Learning using Python: Algorithms - Regression, Classification, Naives Bayes, K-NN, Decision Trees, Clustering | Libraries - Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly
 
-- Professional Skills: Data Visualization | Machine Learning | A/B Testing | Statistical Analysis & Forecasting | Project Management | ETL | Relational Databases (MySQL, Microsoft SQL Server, Google BigQuery, SQLite) | Web Analytics | Risk Analytics
+- Professional Skills: Data Visualization | Machine Learning | A/B Testing | Statistical Analysis & Forecasting | Project Management | Relational Databases (MySQL, Microsoft SQL Server, Google BigQuery, SQLite) | Web Analytics | Risk Analytics
 
 📫 Reach me on: 
 
