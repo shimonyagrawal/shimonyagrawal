@@ -7,8 +7,11 @@
 #### Skills: 
 
 • Databases: Snowflake, MS SQL Server, MySQL, PostgreSQL, Google BigQuery
+
 • Cloud Technologies: AWS (S3, Athena, Glue, EC2, Lambda), Google Cloud, Databricks, Docker
+
 • Programming: Python, R, Apache Spark, PySpark
+
 • BI Tools: Tableau, PowerBI
 
 
