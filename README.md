@@ -14,6 +14,8 @@
 
 • BI Tools: Tableau, PowerBI
 
+• Databricks Certified Associate Developer for Apache Spark 3.0
+
 📫 Reach me on: 
 
 <a target="_blank" href="https://www.linkedin.com/in/shimonyagrawal04/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
